@@ -5,3 +5,4 @@ console.log(negociacao);
 negociacao.quantidade = 10000;
 console.log(negociacao);   
 // Teste
+// Teste2
